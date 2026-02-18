@@ -1,3 +1,4 @@
+![Header](./header.png)
 # 💫 About Me:
 🔭 I’m currently building full-stack applications integrated with Generative AI and Large Language Models, focusing on real-world problem solving.<br><br>👯 I’m open to collaborating on AI-powered web platforms, intelligent automation tools, and innovative startup ideas that create meaningful impact.<br><br>🤝 I’m seeking guidance and collaboration on designing scalable backend architectures, optimizing AI pipelines, and deploying production-ready systems.<br><br>🌱 I’m actively learning LLM integration, prompt engineering, cloud deployment, and MLOps best practices.<br><br>💬 Ask me about Full Stack Development, Generative AI, LLM applications, and Prompt Engineering — always happy to discuss and share ideas!<br><br>⚡ Fun fact: A proud Real Madrid supporter — I admire their winning mentality and never-give-up spirit.
 
